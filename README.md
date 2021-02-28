@@ -11,14 +11,20 @@ The System and Organisation Controls (SOC) 2 (SOC 2 in short) aims to protect th
 ## What is in a SOC 2 audit report?
 A SOC 2 audit report is designed to provide assurance to service organisations’ clients, management and user entities about the suitability and effectiveness of the service organisation’s controls that are relevant to security, availability, processing integrity, confidentiality and/or privacy. The report is generally restricted-use for existing or prospective clients.
 
-### There are two types of SOC audits and reports:
+#### There are two types of SOC audits and reports:
 - Type 1 – an audit and report carried out on a specified date.
 - Type 2 – an audit and report carried out over a specified period, usually a minimum of six months.
 
-### A SOC 2 audit report includes:
+#### A SOC 2 audit report includes:
 - An opinion letter;
 - Management assertion;
 - A detailed description of the system or service;
 - Details of the selected trust services categories;
 - Tests of controls and the results of testing; and
 - Optional additional information.
+
+## How can you manage your cloud resources for SOC2
+### Cloud Custodian
+Cloud Custodian enables users to be well managed in the cloud. The simple YAML DSL allows you to easily define rules to enable a well-managed cloud infrastructure, that's both secure and cost optimized. It consolidates many of the ad-hoc scripts organizations have into a lightweight and flexible tool, with unified metrics and reporting.
+
+Custodian supports managing AWS, Azure, and GCP public cloud environments.
